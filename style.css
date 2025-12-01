@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+::root {
+  --font-family: "Raleway", sans-serif;
+  --mainbg: #f2f3f7;
+}
+body {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mainBG {
+  background: #f2f3f7;
+}
+
+.brand img {
+  width: 6.25rem;
+  height: 4.814rem;
+}
+
+.language-Selector .langTitle {
+  font-size: 1.125rem;
+  font-weight: 400;
+  color: #000;
+}
+
+.vh100 {
+  height: 100%;
+}
